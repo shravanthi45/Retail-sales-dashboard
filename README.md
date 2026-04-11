@@ -1,17 +1,12 @@
-# Retail-sales-dashboard
-An interactive Power BI dashboard designed to analyze retail sales performance, track KPIs, and provide actionable business insights across products, regions, and time periods.
+📊 Retail Sales Dashboard using Power BI
 
-🔹 Tech Stack
-Power BI
-Excel / CSV (data source)
-DAX (for calculations)
-🔹 Key Features
-KPI tracking (Revenue, Profit, Orders)
-Region-wise and product-wise performance
-Time-series analysis (monthly/weekly trends)
-Interactive filters (slicers for category, date, region)
-Top-selling & low-performing product insights
-🔹 Business Impact
-Helps stakeholders make data-driven decisions
-Identifies revenue-driving products
-Improves sales strategy & planning
+I built an interactive dashboard to analyze retail performance across regions, products, and time.
+
+🔍 Key Insights:
+• Identified top-performing products driving revenue
+• Analyzed monthly sales trends
+• Tracked KPIs like profit and order volume
+
+🛠 Tools: Power BI | DAX | Excel
+
+This project helped me understand how businesses use data for decision-making.
