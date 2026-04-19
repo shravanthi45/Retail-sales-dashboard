@@ -7,6 +7,6 @@ I built an interactive dashboard to analyze retail performance across regions, p
 • Analyzed monthly sales trends
 • Tracked KPIs like profit and order volume
 
-🛠 Tools: Power BI | DAX | Excel
+Tools: Power BI | DAX 
 
 This project helped me understand how businesses use data for decision-making.
